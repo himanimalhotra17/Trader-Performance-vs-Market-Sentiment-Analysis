@@ -1,6 +1,6 @@
 # Trader-Performance-vs-Market-Sentiment-Analysis
 
-# Market Sentiment vs Trader Behavior & Performance — Hyperliquid
+# Market Sentiment vs Trader Behavior & Performance - Hyperliquid
 
 Analysis of how Bitcoin Fear/Greed sentiment relates to trader behavior and
 performance on Hyperliquid, using trade-level history for 32 accounts and a
@@ -9,7 +9,7 @@ daily Fear/Greed index.
 ## What's in this repo
 
 ```
-notebook.ipynb        Full analysis, executed top-to-bottom (Parts A, B, C + bonus)
+notebook.ipynb        Full analysis, executed top-to-bottom (Parts A, B, C + Bgonus)
 WRITEUP.md             1-page methodology / insights / strategy summary
 README.md              this file
 data/
